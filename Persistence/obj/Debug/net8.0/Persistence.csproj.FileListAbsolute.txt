@@ -1,0 +1,11 @@
+C:\Users\hilar\source\repos\AgroSmart\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\hilar\source\repos\AgroSmart\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\hilar\source\repos\AgroSmart\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\hilar\source\repos\AgroSmart\Persistence\obj\Debug\net8.0\ref\Persistence.dll

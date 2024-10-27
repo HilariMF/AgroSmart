@@ -1,0 +1,4 @@
+C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.AssemblyInfoInputs.cache
+C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.AssemblyInfo.cs
+C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.csproj.CoreCompileInputs.cache
