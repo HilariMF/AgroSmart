@@ -9,3 +9,15 @@ C:\Users\hilar\source\repos\AgroSmart\Domain\obj\Debug\net8.0\Domain.dll
 C:\Users\hilar\source\repos\AgroSmart\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\hilar\source\repos\AgroSmart\Domain\obj\Debug\net8.0\Domain.pdb
 C:\Users\hilar\source\repos\AgroSmart\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Domain\obj\Debug\net8.0\ref\Domain.dll

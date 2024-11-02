@@ -1,3 +1,5 @@
+using Identity;
+using Shared;
 
 namespace WebApi
 {
@@ -14,7 +16,11 @@ namespace WebApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddIdentityInfrastructure(builder.Configuration);
+            builder.Services.AddSharedInfrastructure(builder.Configuration);
+
             var app = builder.Build();
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -26,6 +32,7 @@ namespace WebApi
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
 
             app.MapControllers();
