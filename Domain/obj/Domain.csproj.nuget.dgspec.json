@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AgroSmart\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Eliezer Ramirez\\source\\repos\\HilariMF\\AgroSmart\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\AgroSmart\\Domain\\Domain.csproj": {
+    "C:\\Users\\Eliezer Ramirez\\source\\repos\\HilariMF\\AgroSmart\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AgroSmart\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Eliezer Ramirez\\source\\repos\\HilariMF\\AgroSmart\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\AgroSmart\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\hilar\\.nuget\\packages\\",
-        "outputPath": "C:\\AgroSmart\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Eliezer Ramirez\\source\\repos\\HilariMF\\AgroSmart\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Eliezer Ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eliezer Ramirez\\source\\repos\\HilariMF\\AgroSmart\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Eliezer Ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

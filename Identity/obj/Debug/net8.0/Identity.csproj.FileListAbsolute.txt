@@ -2,3 +2,21 @@ C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.Generat
 C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.AssemblyInfoInputs.cache
 C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.AssemblyInfo.cs
 C:\Users\hilar\source\repos\AgroSmart\Identity\obj\Debug\net8.0\Identity.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.csproj.AssemblyReference.cache
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.AssemblyInfoInputs.cache
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.AssemblyInfo.cs
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.sourcelink.json
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Identity.deps.json
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Identity.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Identity.pdb
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Application.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Domain.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Application.pdb
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\bin\Debug\net8.0\Domain.pdb
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.csproj.Up2Date
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\refint\Identity.dll
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\Identity.pdb
+C:\Users\Eliezer Ramirez\Source\Repos\HilariMF\AgroSmart\Identity\obj\Debug\net8.0\ref\Identity.dll
