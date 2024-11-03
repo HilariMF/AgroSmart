@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\Application\\Application.csproj": {}
+    "C:\\Users\\hilar\\source\\repos\\AgroSmart\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\Application\\Application.csproj": {
+    "C:\\Users\\hilar\\source\\repos\\AgroSmart\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\hilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\Application\\obj\\",
+        "outputPath": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

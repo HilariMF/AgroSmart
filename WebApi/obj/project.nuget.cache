@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dLfkqd9HLAA=",
+  "dgSpecHash": "NKWUuoZvrwc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hilar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

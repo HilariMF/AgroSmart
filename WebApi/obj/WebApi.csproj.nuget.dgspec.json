@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\hilar\\source\\repos\\AgroSmart\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\hilar\\source\\repos\\AgroSmart\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\hilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

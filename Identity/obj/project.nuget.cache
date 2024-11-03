@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dHopHP/SRFM=",
+  "dgSpecHash": "tLz0dGz1r7c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilar\\Source\\Repos\\AgroSmart\\Identity\\Identity.csproj",
+  "projectFilePath": "C:\\Users\\hilar\\source\\repos\\AgroSmart\\Identity\\Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilar\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hilar\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
